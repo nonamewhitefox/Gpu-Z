@@ -213,4 +213,4 @@ GPU-Z is available as a full free version with all features and updates included
 Experience the power of GPU-Z today! Download now and unlock the full potential of your graphics card.
 
 ---
-**Last updated:** 2026-10-11 06:39:33 UTC
+**Last updated:** 2026-10-11 13:39:44 UTC
